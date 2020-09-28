@@ -1,5 +1,7 @@
 ﻿using System;
-//
+/// <summary>
+/// /
+/// </summary>
 namespace UnitTestCykel
 {
     public class Cykel
